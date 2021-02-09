@@ -1,5 +1,5 @@
 # animalSoundGame
-A system to test your knowledge of animal sounds!
+A system to test your knowledge of animal sounds! Built on mbed
 
 
 ## Animal Sound Game 
@@ -9,7 +9,7 @@ Images are loaded onto a raw partition on an SD card attached to the uLCD. Sound
 
 The program flow begins with a welcome screen and 4 second wait, followed by a prompt to press 0 to begin the game. Once 0 is pressed on the touchpad, the first image of a bear is displayed. Three sounds are played, two incorrect and one correct. After this, an image asking the user to select which sound they think is correct is displayed on the LCD. The user is then informed whether they are incorrect or correct on another image. This is repeated twice more. At the end, the user is thanked and the number of correct answers displayed. 
 
-{{/media/uploads/gotmilk/win_20161031_165735.jpg}}  
+![Animal Sound Game](images/animalsoundgame.jpg)
 
 
 ## Required parts 
